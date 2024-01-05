@@ -1,0 +1,1 @@
+1. Length of contact number may vary up to 10 digits only
